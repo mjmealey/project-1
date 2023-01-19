@@ -1,0 +1,128 @@
+/* style.css */
+
+
+
+body {
+    background-color:pink;
+    color:blueviolet;
+}
+
+
+    .box {
+        border:5px solid rebeccapurple;
+        backgroundc
+    }
+
+h1 {
+    text-align:center;
+    font-family:'Rakkas', cursive;
+    color: blueviolet;
+    font-size:100px;
+    margin-top:-5px;
+    border-color:25px;
+    position:relative;
+    left:650px;
+}
+
+
+.img-anime
+    {
+    width:1100px;
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+    margin-top:-70px;
+    border-radius:100px;
+    border-color:red;
+    position:relative;
+    left:710px;
+    }
+
+.img-spaghetti {
+           width: 200px;
+           margin-top:265px;
+           position:absolute;
+           left:1100px;
+           width:400px;
+           border-radius:50px;
+
+         
+}
+
+.img-pizza {
+    width:300px;
+    margin-top: 1030px;
+    border-radius:50px;
+    position:absolute;
+    right:115px;
+    display:block;
+    margin-left:auto;
+
+}
+
+a:link {
+    text-decoration:none;
+}
+
+a:hover {
+
+    text-decoration:none;
+}
+
+a:visited {
+
+    text-decoration:none;
+}
+
+.img-salmon 
+    {
+        width:300px;
+        display:block;
+        position:absolute;
+        right: -800px;
+        top:1029px;
+        border-radius:60px;
+}
+
+ul 
+{
+   list-style:none;
+   }
+
+
+
+.recipes li:first-child a {
+    margin-left:590px;
+    position:absolute;
+    bottom:-595px;
+    left:145px;
+    font-size:25px;
+    font-family:'Bungee', cursive;;
+    
+}
+.recipes li:nth-of-type(2) {
+        margin-left:1120px;
+      position:absolute;
+        bottom:-590px; 
+        font-size:25px;
+        font-family:'Bungee', cursive;;
+        white-space:nowrap;
+        }
+
+    .recipes li:nth-of-type(3) {
+
+        margin-left:1615px;
+        position:absolute;
+        font-size:25px;
+        bottom:-590px;
+        font-family:'Bungee', cursive;;
+        overflow:hidden;
+        white-space:nowrap;
+        
+    }
+
+
+
+</style>
+</body>
+</html>
