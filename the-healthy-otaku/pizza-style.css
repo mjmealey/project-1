@@ -1,0 +1,42 @@
+/* style.css */
+
+
+.img-pizza {
+    width:600px;
+}
+body {
+    background-color:pink;
+    color:blueviolet;
+    font-family: 'Righteous', cursive;
+    position:absolute;
+    left:20px;
+}
+
+.anime-pizza {
+
+    position:absolute;
+    left:1750px;
+    width:600px;
+    margin-top:700px;
+    border-radius:70px;
+
+
+}
+
+h1 {
+    color:blueviolet;
+    font-size:30px;
+    font-family:'Bungee', cursive;;
+    
+}
+
+h2 {
+    font-family:'Bungee', cursive;;
+}
+
+.big {
+    font-size:95px;
+    position:relative;
+    left:20px;
+    margin-top:-30px;
+}

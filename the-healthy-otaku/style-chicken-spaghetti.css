@@ -1,0 +1,50 @@
+/* style.css */
+h1 {
+    position:relative;
+    left:10px;
+    font-family:'Bungee', cursive;;
+    font-size:35px;
+}
+
+.chicken
+    {
+        position:relative;
+        left:10px;
+        border-radius:50px;!important;
+        
+    }
+
+body 
+
+{
+
+    background-color:pink;
+    font-family: 'Righteous', cursive;
+    color:blueviolet;
+}
+
+p {
+    font-family:'Bungee', cursive;
+}
+
+
+.protein {
+    width:700px;
+    position:absolute;
+    left:1700px;
+    margin-top:950px;
+    border-radius:50px;
+}
+
+.para
+    {
+        margin-top:500px;
+        position:absolute;
+        left:130px;
+        font-size:50px;
+    }
+    .paragraph {
+        position:absolute;
+        left:20px;
+        font-size:20px;
+    }
